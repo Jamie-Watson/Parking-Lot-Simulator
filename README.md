@@ -24,5 +24,3 @@ To install and run the project, follow these steps:
     java CapacityOptimizer n
     ```
     where n represent an integer value for the number of cars entering the lot in the simulated hour
-
-6. Note that this project will automatically include the TTS APIs required to run.
